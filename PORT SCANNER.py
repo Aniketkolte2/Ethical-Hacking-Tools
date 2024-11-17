@@ -9,7 +9,6 @@ print(ascii_banner)
 
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.setdefaulttimeout(3)
 host = input("Enter your target IP :")
 
 def portscanner(port):
