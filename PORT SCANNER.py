@@ -20,8 +20,6 @@ for port in range(x, y + 1):  # Adding +1 to include the last port
     
     if result == 0:
         print(f"Port {port} is open")  # f-string to include the variable
-    else:
-        print(f"Port {port} is closed")
-    
+  
     sock.close()  # Closing the socket
 
