@@ -3,7 +3,7 @@
 This is a simple Python-based Port Scanner that scans the specified IP address for open ports within a range. It uses the socket library to attempt connections and outputs the status of each port.
 
 # Features
-- Scans ports from 1 to 999.  
+- Scans ports.    
 - Displays whether ports are open or closed.  
 - Customizable timeout settings.  
 - ASCII banner using the pyfiglet library for a visually appealing start.
