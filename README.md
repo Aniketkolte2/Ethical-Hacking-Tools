@@ -20,7 +20,7 @@ Install the libraries using pip if not already installed:
 # How to Use
  Step 1: Clone the Repository  
 
-   *git clone https://github.com/yourusername/port-scanner.git*  
+   *git clone link*  
    *cd port-scanner*  
    
 Step 2: Run the Script
